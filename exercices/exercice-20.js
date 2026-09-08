@@ -23,4 +23,4 @@ let pseudo = "NinjaCoder";
 
 let nomAAfficher = nom ?? pseudo ?? "Anonyme";
 
-console.log("Nom à afficher :", nomAAfficher);
+console.log(nomAAfficher);
